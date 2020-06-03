@@ -1,7 +1,7 @@
 {"Version": [
 	{
 	    
-		"version": "1.4.0",
+		"version": "1.3.0",
 		"error": "01",
 		"title":"Our App got an Update",
 		"message":"New version available, click update to update the app",
@@ -9,7 +9,7 @@
 		"btnCancel":"okay",
 		"package":"https://play.google.com/store/apps/details?id=",
 		"_comment1":"________Make check 1 for M and 0 for T__________",
-		"check":"1",
+		"check":"0",
 		"u1":"https://movieshows.website/box/rest-api/",
 		"u2":"https://movieshows.website/boxtrailers/rest-api/",
 		"key1":"21927ff82a257f1",
