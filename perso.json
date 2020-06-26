@@ -1,7 +1,7 @@
 {"Version": [
 	{
 	    
-		"version": "1.3.0",
+		"version": "1.5.0",
 		"error": "01",
 		"title":"Our App got an Update",
 		"message":"New version available, click update to update the app",
@@ -30,10 +30,10 @@
 		"Uninter":"interst",
 		"bnrUn":"benner",
 		"_comment2":"_________adm or fb or un or start or dialog__________",
-		"splash":"un",
-		"playad":"un",
-		"ads":"un",
-		"bnr":"un",
+		"splash":"fb",
+		"playad":"fb",
+		"ads":"fb",
+		"bnr":"fb",
 		"fbError":"un",
 		"_comment3":"_________0 or 1__________",
 		"homeNative":"0",
